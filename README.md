@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vidal68. Estou aprendendo desenvolvimento responsivo e desenvolvimento Web.
 - 👀 I’m interested in aprender 
 - 🌱 I’m currently learning HTML, javascript, CSS, Payton estrutura de dados e outros.
-- 💞️ I’m looking to collaborate on desenvolvimento de  projetos.
+- 💞️ I’m looking to collaborate on desenvolvimento de  projetos e fazendo meus projetos.
 - 📫 How to reach me, imal : luamart.vidal@hotmail.com
 
 <!---
